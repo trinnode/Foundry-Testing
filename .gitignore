@@ -16,6 +16,4 @@ lib/
 foundry.lock
 .gitmodules
 icov.info
-README.md
-package.json
 package-lock.json
