@@ -17,3 +17,5 @@ foundry.lock
 .gitmodules
 icov.info
 package-lock.json
+node-modules/
+node-modules
